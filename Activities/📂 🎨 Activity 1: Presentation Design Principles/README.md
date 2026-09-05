@@ -1,10 +1,10 @@
 # 🎨 Activity 1: Presentation Design Principles
 
-## 📌 What I Created
+## ˚₊‧꒰ა 🖼️ FINAL OUTPUT ໒꒱ ‧₊˚
 
-For this activity, I created a promotional poster titled **“FREE COFFEE.”** The design communicates a simple promotional message: free coffee is available on a first-come, first-served basis.
+> ✨ *My completed Free Coffee promotional design!* ✨
 
-![Activity 1 Output](../../assets/images/activity-1-free-coffee.png)
+![Free Coffee Promotional Design](../../Assets/IMAGES/activity-1-free-coffee.png)
 
 ## 💡 Concept
 
