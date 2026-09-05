@@ -1,12 +1,10 @@
 # 🇵🇭📊 PAX SILICA: A STORY OF DEVELOPMENT & QUESTIONS ✨
 
-## 📌 What I Created
+## ˚₊‧꒰ა 🖼️ FINAL OUTPUT ໒꒱ ‧₊˚
 
-For this activity, I created an infographic titled:
+> ✨ *My completed Pax Silica infographic!* ✨
 
-# 🇵🇭 Get to Know About “Pax Silica” in the Philippines
-
-![Activity 3 Output](../../assets/images/activity-3-pax-silica-infographic.png)
+![Pax Silica Infographic](../../Assets/IMAGES/activity-3-pax-silica-infographic.png)
 
 ## 💡 Concept
 
