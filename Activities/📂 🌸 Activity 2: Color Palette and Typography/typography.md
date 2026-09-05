@@ -4,6 +4,13 @@
 
 ---
 
+
+## 🖼️ Typography Reference
+
+![PRSTN Flower Shop Typography](../../Assets/IMAGES/activity-2-prstn-branding.png)
+
+
+
 ## 🌸 My Typography Selection
 
 For the PRSTN Flower Shop branding, I selected typography that combines **elegance, sophistication, and readability**.
