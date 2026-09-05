@@ -40,7 +40,6 @@ This repository serves as my digital portfolio and documentation for the three d
 ┃     ┗ 📄 creative-process.md
 ┗ 📂 docs
    ┣ 📄 portfolio-overview.md
-   ┣ 📄 presentation-script.md
    ┗ 📄 ai-acknowledgment.md
 ```
 
