@@ -4,7 +4,7 @@
 
 For this activity, I developed a visual identity for **PRSTN Flower Shop**. The output includes a logo, color palette, typography selection, and sample promotional layouts.
 
-![Activity 2 Output](../../assets/images/activity-2-prstn-branding.png)
+![PRSTN Flower Shop Typography](../../Assets/IMAGES/activity-2-prstn-branding.png)
 
 ## 💡 Concept
 
