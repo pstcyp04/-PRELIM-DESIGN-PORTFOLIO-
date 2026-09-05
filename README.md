@@ -2,7 +2,7 @@
 
 > A creative compilation of my three major design activities completed during the Prelim period.
 
-![Portfolio Cover](assets/images/activity-3-pax-silica-infographic.png)
+![PRELIM DESIGN PORTFOLIO Cover](Assets/IMAGES/PRELIM.png)
 
 ## ✨ About This Repository
 
